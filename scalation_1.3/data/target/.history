@@ -1,0 +1,3 @@
+compile
+run-main apps.relalgebra.ClassSchedule
+exit

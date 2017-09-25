@@ -1,0 +1,70 @@
+compile
+exit
+compile
+quit
+exit
+compile
+clean
+compile
+exit
+package
+exit
+clean
+compile
+package
+exit
+compile
+package
+exit
+compile
+clean
+doc
+exit
+compile
+run-main scalation.linalgebra.bld.BldVector
+compile
+exit
+compile
+run-main scalation.UpVersionAll
+compile
+run-main scalation.UpVersionAll
+compile
+run-main scalation.UpVersionAll
+exit
+compile
+package
+exit
+clean doc
+clean
+doc
+exit
+compile
+run-main scalation.util.GenIndexHtml 
+clean
+exit
+doc
+exit
+compile
+run-main scalation.scalationTest
+compile
+package
+exit
+run-main scalation.par.MRtest
+run-main scalation.par.MRTest
+compile
+exit
+run-main scalation.random.VariateVecTest
+exit
+compile
+exit
+compile
+run-main scalation.math.MathTest
+run-main scalation.linalgebra.SVDTest
+run-main scalation.linalgebra.SVDTest2
+run-main scalation.linalgebra.SVDTest3
+run-main scalation.linalgebra.SVDTest4
+run-main scalation.linalgebra.SVDTest5
+run-main scalation.linalgebra.SVDTest6
+run-main scalation.linalgebra.SVDTest7
+run-main scalation.linalgebra.SVDTest8
+exit

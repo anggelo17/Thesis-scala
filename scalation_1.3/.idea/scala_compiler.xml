@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="scalation_1-3">
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-Xfatal-warnings" />
+        <parameter value="-opt:l:classpath" />
+        <parameter value="-opt-warnings" />
+        <parameter value="-Xlint:-adapted-args" />
+      </parameters>
+    </profile>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+compile
+run-main scalation.analytics.classifier.NaiveBayesTest
+pacakgeDoc
+packageDoc
+doc
+packageDoc
+exit
+clean
+doc
+compile
+run-main scalation.util.GenIndexHtml
+clean
+doc
+exit
+compile
+clean
+doc
+exit
+compile
+run-main apps.UpVersionAll
+compile
+run-main apps.UpVersionAll
+compile
+run-main apps.UpVersionAll
+exit
+clean
+doc
+exit
+compile
+run-main scalation.util.GenIndexHtml
+clean
+doc
+exir
+exit

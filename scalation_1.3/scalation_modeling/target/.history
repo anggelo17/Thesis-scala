@@ -1,0 +1,47 @@
+compile
+exit
+compile
+exit
+compile
+exit
+compile
+run-main scalation.UpVersionAll
+compile
+run-main scalation.UpVersionAll
+exit
+compile
+package
+clean
+doc
+compile
+exit
+compile
+clean
+doc
+exit
+compile
+run-main scalation.util.GenIndexHtml
+clean
+exit
+doc
+exit
+compile
+package
+exit
+compile
+exit
+compile
+run-main scalation.analytics.clusterer.KMeansPlusPlusClustererTest2
+exit
+run-main scalation.analytics.clusterer.TightClustererTest
+compile
+run-main scalation.analytics.clusterer.TightClustererTes
+run-main scalation.analytics.clusterer.TightClustererTest
+compile
+run-main scalation.analytics.clusterer.TightClustererTest
+compile
+run-main scalation.analytics.clusterer.TightClustererTest
+compile
+exit
+run-main scalation.GenIndexHtml
+exit
